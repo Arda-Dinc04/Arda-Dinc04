@@ -20,10 +20,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **ardadinc04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayberk_saygi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayberk_saygi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayberk-saygı-0640811a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayberk-saygı-0640811a4" height="30" width="40" /></a>
-<a href="https://instagram.com/ayberk_saygi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayberk_saygi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/arda-dinc-897b7a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda_dinc-0640811a4" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ardadinc04/?next=%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda_dinc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC0GwTXvSheFR7HVxHVwiZUg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="genç yazılımcı" height="30" width="40" /></a>
 </p>
 
