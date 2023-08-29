@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/ardadinc04/?next=%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda_dinc" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
 <!-- C --> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!-- C# --> 
