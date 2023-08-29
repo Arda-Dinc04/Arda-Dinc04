@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Arda-Dinc04
-- 👀 I’m interested in smart contracts and web development
-- 🌱 I’m currently learning Java, javascript, css, python
-- 💞️ I’m looking to collaborate on crypto, smart contracts, and more
-- 📫 How to reach me ardadinc04@gmail.com
-
 <!---
 Arda-Dinc04/Arda-Dinc04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -56,13 +50,12 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
 </div>
-
+ <!--
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rootroxox&show_icons=true&include_all_commits=true&theme=radical" alt="Ayberk's Github Stats" />
-
  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rootroxox&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
 <p align = "center"> 
 <img src="https://activity-graph.herokuapp.com/graph?username=rootroxox&theme=redical">
 </p> 
+-->
