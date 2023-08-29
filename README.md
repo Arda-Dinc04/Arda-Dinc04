@@ -8,22 +8,16 @@
 Arda-Dinc04/Arda-Dinc04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Ayberk Saygı!</h1>
-<h3 align="center">Software Engineering Student at Çankaya University</h3>
+<h1 align="center">Hi 👋, I'm @Arda-Dinc04</h1>
+<h3 align="center">Software Engineering Student at University of Florida</h3>
 
-- 🔭 I’m currently working on **SRGAN: Super Resolution Generative Adversarial Networks**
+- 🔭 I’m currently working on WWM (World Wide Market) Software Application
 
-- 🌱 I’m currently learning **Darknet Framework, OpenCV Library, Super Resolution**
+- 🌱 I’m currently learning **React, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rootroxox?tab=repositories](https://github.com/rootroxox?tab=repositories)
+- 💬 Ask me about **Cryptocurrencies & Blockchain Technology**
 
-- 📝 I regularly record programming/tech videos on [https://www.youtube.com/channel/UC0GwTXvSheFR7HVxHVwiZUg](https://www.youtube.com/channel/UC0GwTXvSheFR7HVxHVwiZUg)
-
-- 💬 Ask me about **C/C++, Computer Vision, Java, Python, Data Structures & Algorithms**
-
-- 📫 How to reach me **ayberk2574@gmail.com**
-
-- ⚡ Fun fact **There are two ways to write error-free programs; only the third one works**
+- 📫 How to reach me **ardadinc04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
