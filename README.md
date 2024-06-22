@@ -3,7 +3,7 @@ Arda-Dinc04/Arda-Dinc04 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm @Arda-Dinc04</h1>
-<h3 align="center">Software Engineering Student at University of Florida</h3>
+<h3 align="center">Software Engineering Student at New York University</h3>
 
 - 🔭 I’m currently working on WWM (World Wide Market) Software Application
 
