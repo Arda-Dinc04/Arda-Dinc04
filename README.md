@@ -1,63 +1,57 @@
-<!---
-Arda-Dinc04/Arda-Dinc04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Hi 👋, I'm @Arda-Dinc04</h1>
-<h3 align="center">Software Engineering Student at New York University</h3>
+# Arda Dinc
 
-- 🔭 I’m currently working on WWM (World Wide Market) Software Application
+**Early-Career Engineer — CS × Finance × Crypto**  
+New York University • Building data-driven products, DeFi tooling, and full-stack apps.
 
-- 🌱 I’m currently learning **React, Python**
+---
 
-- 💬 Ask me about **Cryptocurrencies & Blockchain Technology**
+## Quick links
+- **Website:** https://ardadinc.com  
+- **LinkedIn:** https://www.linkedin.com/in/arda-dinc  
+- **Portfolio Projects:** https://ardadinc.com/#projects  
+- **Contact:** contact [at] ardadinc [dot] com  <!-- avoids scrapers -->
 
-- 📫 How to reach me **ardadinc04@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/arda-dinc-897b7a22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ardadinc04/?next=%2F#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda_dinc" height="30" width="40" /></a>
+## What I do
+- Design & ship **full-stack** apps (TypeScript, React, Node)
+- Build **data pipelines & quant research** (Python, Pandas, Jupyter)
+- Explore **blockchain & zk** integrations (Solidity, zkEVM/zkTLS concepts)
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; align-items: center;">
-    <!-- C --> 
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <!-- C# --> 
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <!-- C++ --> 
-    <!-- needs to be included--> 
-    <!-- CSS --> 
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <!-- HTML --> 
-    <a href="https://www.w3.org/html/](https://html.spec.whatwg.org/multipage/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <!-- Java --> 
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <!-- PostgreSql --> 
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <!-- Python --> 
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-</div>
+**Now:** fin/crypto data modeling • zkTLS demo on ZKsync • polishing portfolio
 
+---
 
- <!--
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rootroxox&show_icons=true&include_all_commits=true&theme=radical" alt="Ayberk's Github Stats" />
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rootroxox&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<p align = "center"> 
-<img src="https://activity-graph.herokuapp.com/graph?username=rootroxox&theme=redical">
-</p> 
+## Selected projects
+| Project | What it is | Stack |
+|---|---|---|
+| **Airbnb-Project** | Exploratory analysis + modelling from Airbnb data | Python, Jupyter, Pandas, Matplotlib |
+| **LSTM-TA for US & Emerging Crypto Markets** | LSTM + technical signals; evaluation & charts | Python, TensorFlow, Pandas, TA |
+| **FIN4903 Course Labs** | Factor construction, backtesting, risk, attribution | Python, NumPy/Pandas, scikit-learn, Matplotlib |
+| **zkTLS Fan Loyalty Demo** | Private, verifiable fan engagement → on-chain proofs | React/TS, Solidity (verifier), ZKsync, Reclaim |
+
+> Replace repo links as needed:
+> - Airbnb: `https://github.com/Arda-Dinc04/Airbnb-Project`  
+> - LSTM-TA: `https://github.com/Arda-Dinc04/LSTM-TA-for-US-Emerging-Crypto-Markets`  
+> - FIN4903: `https://github.com/Arda-Dinc04/Special-Topics-FIN4903`  
+> - zkTLS demo/case: add your public repo when ready
+
+---
+
+## Skills (concise)
+**Languages:** Python, TypeScript/JavaScript, SQL, Solidity  
+**Data/ML:** Pandas, NumPy, scikit-learn, TensorFlow, Jupyter  
+**Web:** React, Vite, Tailwind, Node, Express  
+**Dev/Cloud:** Git/GitHub, Docker, Cloudflare Pages/Workers, Firebase  
+**Finance/Blockchain:** Factor models, backtesting, DeFi, zkEVM concepts
+
+---
+
+## About
+I like turning messy market data into **clear signals** and building **useful interfaces** around it. I’m especially interested in the overlap of **blockchain**, **quant research**, and **developer tooling**.
+
+<!-- Optional: keep the profile calm and fast. Add stats later if you want. -->
+<!--
+### GitHub at a glance
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Dinc04&show_icons=true&hide_title=true)
 -->
