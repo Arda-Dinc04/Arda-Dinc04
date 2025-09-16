@@ -9,7 +9,7 @@ New York University • Building data-driven products, DeFi tooling, and full-st
 - **Website:** https://ardadinc.com  
 - **LinkedIn:** https://www.linkedin.com/in/arda-dinc  
 - **Portfolio Projects:** https://ardadinc.com/#projects  
-- **Contact:** contact [at] ardadinc [dot] com  <!-- avoids scrapers -->
+- **Contact:** contact [at] ardadinc04@gmail [dot] com  <!-- avoids scrapers -->
 
 ---
 
@@ -33,8 +33,8 @@ New York University • Building data-driven products, DeFi tooling, and full-st
 > Replace repo links as needed:
 > - Airbnb: `https://github.com/Arda-Dinc04/Airbnb-Project`  
 > - LSTM-TA: `https://github.com/Arda-Dinc04/LSTM-TA-for-US-Emerging-Crypto-Markets`  
-> - FIN4903: `https://github.com/Arda-Dinc04/Special-Topics-FIN4903`  
-> - zkTLS demo/case: add your public repo when ready
+> - FIN4903: 'https://github.com/Arda-Dinc04/Airbnb-Project'  
+> - zkTLS demo/case: 'https://github.com/Arda-Dinc04/DemoDApp'
 
 ---
 
