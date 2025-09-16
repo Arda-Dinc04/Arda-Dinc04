@@ -1,3 +1,12 @@
+
+<p align="center">
+  <picture>
+    <!-- Prefer a light version if you add one later -->
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg" />
+    <img alt="Arda Dinc — Early-Career Engineer · CS @ NYU · Finance × Crypto" src="assets/banner-dark.svg">
+  </picture>
+</p>
 # Arda Dinc
 
 **Early-Career Engineer — CS × Finance × Crypto**  
