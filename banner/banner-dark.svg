@@ -1,0 +1,76 @@
+<!-- banner/banner-dark.svg -->
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arda Dinc — Profile Banner</title>
+  <desc id="desc">Professional banner with name and role on a subtle dark gradient grid and a sailboat accent.</desc>
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <!-- Rounded rectangle mask -->
+    <clipPath id="r">
+      <rect x="0" y="0" width="1200" height="320" rx="20" ry="20"/>
+    </clipPath>
+
+    <!-- Subtle grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    </pattern>
+
+    <!-- Accent glow -->
+    <radialGradient id="glow" cx="85%" cy="25%" r="45%">
+      <stop offset="0%"  stop-color="#3b82f6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+
+    <!-- Left text block -->
+    <g transform="translate(64,120)">
+      <text x="0" y="0"
+        fill="#e5e7eb"
+        font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-weight="700"
+        font-size="56">
+        Arda Dinc
+      </text>
+
+      <text x="0" y="44"
+        fill="#9ca3af"
+        font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="20">
+        Early-Career Engineer · CS @ NYU · Finance × Crypto
+      </text>
+
+      <text x="0" y="84"
+        fill="#6b7280"
+        font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="16">
+        Building data-driven products, DeFi tooling, and full-stack apps
+      </text>
+    </g>
+
+    <!-- Small sailboat on the right -->
+    <g transform="translate(950,160)">
+      <!-- water wake -->
+      <path d="M-30 65 C -10 68, 10 68, 30 65" fill="none" stroke="#60a5fa" stroke-opacity="0.35" stroke-width="2"/>
+      <path d="M-40 75 C -15 78, 15 78, 40 75" fill="none" stroke="#60a5fa" stroke-opacity="0.25" stroke-width="2"/>
+
+      <!-- hull -->
+      <path d="M-10 60 L 35 60 C 28 72, -3 72, -10 60 Z" fill="#1f2937" stroke="#334155" stroke-width="2"/>
+      <!-- mast -->
+      <rect x="10" y="10" width="3" height="50" fill="#94a3b8"/>
+      <!-- sail -->
+      <path d="M12 12 L 12 56 L 46 40 Z" fill="#93c5fd" stroke="#60a5fa" stroke-width="1.5"/>
+      <!-- tiny flag -->
+      <path d="M12 12 L 22 16 L 12 20 Z" fill="#3b82f6"/>
+    </g>
+  </g>
+</svg>
