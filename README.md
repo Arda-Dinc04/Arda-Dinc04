@@ -31,8 +31,8 @@ New York University • Building data-driven products, DeFi tooling, and full-st
 | **zkTLS Fan Loyalty Demo** | Private, verifiable fan engagement → on-chain proofs | React/TS, Solidity (verifier), ZKsync, Reclaim |
 
 > Replace repo links as needed:
-> - Airbnb: `https://github.com/Arda-Dinc04/Airbnb-Project`  
-> - LSTM-TA: `https://github.com/Arda-Dinc04/LSTM-TA-for-US-Emerging-Crypto-Markets`  
+> - Airbnb: 'https://github.com/Arda-Dinc04/Airbnb-Project'
+> - LSTM-TA: 'https://github.com/Arda-Dinc04/LSTM-TA-for-US-Emerging-Crypto-Markets'
 > - FIN4903: 'https://github.com/Arda-Dinc04/Airbnb-Project'  
 > - zkTLS demo/case: 'https://github.com/Arda-Dinc04/DemoDApp'
 
@@ -49,9 +49,3 @@ New York University • Building data-driven products, DeFi tooling, and full-st
 
 ## About
 I like turning messy market data into **clear signals** and building **useful interfaces** around it. I’m especially interested in the overlap of **blockchain**, **quant research**, and **developer tooling**.
-
-<!-- Optional: keep the profile calm and fast. Add stats later if you want. -->
-<!--
-### GitHub at a glance
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arda-Dinc04&show_icons=true&hide_title=true)
--->
