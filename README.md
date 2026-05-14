@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="banner/banner-dark.svg" />
-    <source media="(prefers-color-scheme: dark)"  srcset="banner/banner-dark.svg" />
-    <img alt="Arda Dinc — Finance, ML, and Crypto · CS @ NYU" src="banner/banner-dark.svg">
-  </picture>
+  <img alt="Arda Dinc — AI products across fintech, healthcare, research, and crypto" src="banner/linkedin-cover.png">
 </p>
 
 # Arda Dinc
