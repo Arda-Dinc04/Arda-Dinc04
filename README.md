@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Arda Dinc — Finance, ML, and Crypto · CS @ NYU" src="banner/Linkedin-Cover.png">
+  <img alt="Arda Dinc — Finance, ML, and Crypto · CS @ NYU" src="banner/linkedin-cover.png">
 </p>
 # Arda Dinc
 
