@@ -1,7 +1,10 @@
 <p align="center">
-  <img alt="Arda Dinc — AI products across fintech, healthcare, research, and crypto" src="banner/linkedin-cover.png">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="banner/banner-dark.svg" />
+    <source media="(prefers-color-scheme: dark)"  srcset="banner/banner-dark.svg" />
+    <img alt="Arda Dinc — Finance, ML, and Crypto · CS @ NYU" src="banner/Linkedin Cover.png">
+  </picture>
 </p>
-
 # Arda Dinc
 
 Computer Science at NYU. Building at the intersection of **finance**, **ML**, and **crypto**.
